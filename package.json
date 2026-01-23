@@ -70,7 +70,7 @@
     "@types/webpack-env": "^1.13.6",
     "@typescript-eslint/parser": "^5.20.0",
     "@typescript-eslint/eslint-plugin": "^5.20.0",
-    "postcss": "^8.4.40",
+    "postcss": "^8.4.41",
     "@tarojs/webpack5-runner": "3.6.30",
     "@tarojs/taro-loader": "3.6.30",
     "webpack": "^5.94.0",
